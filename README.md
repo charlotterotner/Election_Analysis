@@ -1,4 +1,5 @@
-# Election_Analysis_Final
+# Election_Analysis
+
 ## Overview of Election Audit
 The purpose of this election analysis audit was to use Python script to easily extract the following pieces of information:
 - The names of each county that the votes came from 
