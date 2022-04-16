@@ -92,8 +92,8 @@ Printing all the code detailed above we were able to output the election results
 
 ## Election Audit Summary
 
-This script could be used in future elections for both the same congressional election or other types of elections. It can be used for any number of candidates, counties and votes. The script can also be re-used with minor changes if the election data csv file is collected in a different format. For example, if the election data is ordered differently or we have additional columns of information we can make a small adjustment to accomodate for that. In lines 49 and 52 we assigned the candidate and county names from each row.
-        *
+This script could be used in future elections for both the same congressional election or other types of elections. It can be used for any number of candidates, counties and votes. The script can also be re-used with minor changes if the election data csv file is collected in a different format. For example, if the election data is ordered differently or we have additional columns of information we can make a small adjustment to accomodate for that. In lines 49 and 52 we got the candidate and county names from each row by referencing a column.
+ 
 ```
          # Get the candidate name from each row.
         candidate_name = row[2]
