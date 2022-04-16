@@ -115,14 +115,12 @@ with open(file_to_save, "w") as txt_file:
         f"-------------------------\n"
         f"Largest County Turnout: {largest_county}\n"
         f"-------------------------\n")
+     # 7: Print the county with the largest turnout to the terminal.
     print(largest_county_summary)
-    # Save the winning candidate's name to the text file.
-    txt_file.write(largest_county_summary)
-
-    # 7: Print the county with the largest turnout to the terminal.
-
-
+  
     # 8: Save the county with the largest turnout to a text file.
+
+    txt_file.write(largest_county_summary)
 
 
     # Save the final candidate vote count to the text file.
