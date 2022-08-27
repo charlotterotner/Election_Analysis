@@ -107,7 +107,7 @@ by adjusting the number in brackets after row we can have the computer pull that
 
 ---
 
-Contact:
+**Contact:**
 
 Email: charlotte.rotner@gmail.com  
 Linkedin: https://www.linkedin.com/in/charlotte-rotner/
