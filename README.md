@@ -104,3 +104,10 @@ This script could be used in future elections for both the same congressional el
 ```
 
 by adjusting the number in brackets after row we can have the computer pull that info from a different column in the CSV file if necessary. For example, if the county name was in the fifth column our code should be updated  to say county_name = row [4]
+
+---
+
+Contact:
+
+Email: charlotte.rotner@gmail.com  
+Linkedin: https://www.linkedin.com/in/charlotte-rotner/
